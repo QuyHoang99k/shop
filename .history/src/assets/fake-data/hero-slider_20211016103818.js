@@ -1,0 +1,1 @@
+const img1 = require("../")
